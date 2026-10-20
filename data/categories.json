@@ -1,0 +1,58 @@
+[
+  {
+    "id": "লাইভ স্ট্রিম",
+    "labelBn": "লাইভ স্ট্রিম",
+    "labelEn": "Live Stream",
+    "icon": "Radio",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "নাটক",
+    "labelBn": "নাটক",
+    "labelEn": "Drama",
+    "icon": "Film",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "গান ও সঙ্গীত",
+    "labelBn": "গান ও সঙ্গীত",
+    "labelEn": "Music",
+    "icon": "Music",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "প্রযুক্তি",
+    "labelBn": "প্রযুক্তি",
+    "labelEn": "Technology",
+    "icon": "Cpu",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "ডকুমেন্টারি",
+    "labelBn": "ডকুমেন্টারি",
+    "labelEn": "Documentary",
+    "icon": "Compass",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "খাবার ও রেসিপি",
+    "labelBn": "খাবার ও রেসিপি",
+    "labelEn": "Food & Recipe",
+    "icon": "Utensils",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "খেলাধুলা",
+    "labelBn": "খেলাধুলা",
+    "labelEn": "Sports",
+    "icon": "Trophy",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  },
+  {
+    "id": "সংবাদ",
+    "labelBn": "সংবাদ",
+    "labelEn": "News",
+    "icon": "Newspaper",
+    "createdAt": "2026-10-18T05:00:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Live Video - Bengali Video Streaming",
+  "description": "Discover, watch, and stream live and curated Bengali and international videos with rich player controls and playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
